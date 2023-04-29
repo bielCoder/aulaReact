@@ -1,1 +1,1 @@
-*Aqui foi ensinado a utilizar as props*
+*Aqui foi ensinado a utilizar css local*
