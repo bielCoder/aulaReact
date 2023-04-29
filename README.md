@@ -1,1 +1,1 @@
-*Aqui foi ensinado a utilizar css local*
+*Aqui foi ensinado a utilizar o fragments*
