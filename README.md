@@ -1,1 +1,1 @@
-*Aqui foi ensinado sobre como criar components*
+*Aqui foi ensinado a utilizar as props*
