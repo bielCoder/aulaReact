@@ -1,1 +1,1 @@
-*Aqui foi ensinado sobre o jsx*
+*Aqui foi ensinado sobre como criar components*
