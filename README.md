@@ -1,1 +1,1 @@
-*Aqui foi ensinado o processo de instalação do react*
+*Aqui foi ensinado sobre o jsx*
