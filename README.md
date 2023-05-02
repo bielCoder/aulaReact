@@ -1,1 +1,1 @@
-*Aqui foi ensinado a utilizar o fragments*
+*Aqui foi ensinado a utilizar os eventos*
